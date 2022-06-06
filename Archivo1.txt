@@ -1,1 +1,3 @@
 Este es el archivo 1
+
+Esta es la línea del cambio 2
